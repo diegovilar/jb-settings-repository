@@ -1,0 +1,8 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_HTTP_PROXY" value="true" />
+    <option name="PROXY_HOST" value="proxy.tre-se.gov.br" />
+    <option name="PROXY_PORT" value="3128" />
+    <option name="PROXY_EXCEPTIONS" value="127.0.0.1,localhost,*.localhost,10.21*,10.21.*,10.21.*.*,tre-se.jus.br,*.tre-se.jus.br,tre-se.gov.br,*.tre-se.gov.br" />
+  </component>
+</application>
