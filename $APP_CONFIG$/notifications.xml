@@ -4,6 +4,8 @@
     <toolWindow group="Web Deployment: Remote Host" />
     <toolWindow group="Web Deployment: File Transfer" />
     <toolWindow group="Grunt Console" />
+    <toolWindow group="Common Version Control Messages" />
     <toolWindow group="Inspection Results" />
+    <toolWindow group="Vcs Messages" />
   </component>
 </application>
