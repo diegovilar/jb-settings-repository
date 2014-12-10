@@ -86,7 +86,7 @@
         <property name="JavaScriptPreferStrict" value="false" />
         <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
         <property name="HbShouldOpenHtmlAsHb" value="" />
-        <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
+        <property name="options.lastSelected" value="altn8.AlternateApplicationComponent" />
         <property name="options.splitter.main.proportions" value="0.3" />
         <property name="options.splitter.details.proportions" value="0.2" />
       </component>
