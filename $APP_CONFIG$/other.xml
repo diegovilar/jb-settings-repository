@@ -20,25 +20,32 @@
     <option name="UI_FILTER_LEGALS" value="true" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
-    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="NativeNeighbourhoodPlugin">
+    <iconsDir value="windows" />
+    <executeWithDefaultAppCommand value="rundll32.exe url.dll,FileProtocolHandler $FilePath$" tokenizerDelims="" />
+    <showInFileManagerCommand value="explorer.exe /select,$FilePath$" tokenizerDelims="" />
+    <openCommandShellInCommand value="cmd /c &quot;$PluginsHome$\NativeNeighbourhood\classes\org\intellij\plugins\nativeNeighbourhood\icons\windows\cmd.bat&quot;" tokenizerDelims="" />
+    <selectInFileManagerName value="Windows Explorer" />
+    <nativeExtensions value="doc,xls,ppt,mdb,vsd,pdf,exe,lnk,hlp,chm" />
   </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="D:\dev\Projects\JSWA-shared-components\AppShell" />
         <option value="D:\dev\Projects\SiteMobile\trunk\site" />
+        <option value="D:\dev\Projects\JSWA-shared-components\AppShell" />
       </list>
     </option>
-    <option name="lastPath" value="D:\dev\Projects\JSWA-shared-components\AppShell" />
   </component>
   <component name="RecentTaskRepositories">
     <YouTrack shared="false" url="http://apps.tre-se.gov.br/youtrack">
