@@ -7,66 +7,7 @@
       <component name="DependencyValidationManager">
         <option name="SKIP_IMPORT_STATEMENTS" value="false" />
       </component>
-      <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="ISO-8859-1">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
-      <component name="InspectionProjectProfileManager">
-        <profiles>
-          <profile version="1.0" is_locked="false">
-            <option name="myName" value="Project Default" />
-            <option name="myLocal" value="false" />
-            <inspection_tool class="CoffeeScriptInfiniteLoop" enabled="false" level="WARNING" enabled_by_default="false" />
-            <inspection_tool class="CoffeeScriptSillyAssignment" enabled="false" level="WARNING" enabled_by_default="false" />
-            <inspection_tool class="CoffeeScriptSwitchStatementWithNoDefaultBranch" enabled="false" level="WARNING" enabled_by_default="false" />
-            <inspection_tool class="CoffeeScriptUnusedLocalSymbols" enabled="false" level="WARNING" enabled_by_default="false" />
-            <inspection_tool class="CucumberExamplesColon" enabled="false" level="ERROR" enabled_by_default="false" />
-            <inspection_tool class="CucumberMissedExamples" enabled="false" level="ERROR" enabled_by_default="false" />
-            <inspection_tool class="CucumberTableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-            <inspection_tool class="CucumberUndefinedStep" enabled="false" level="WARNING" enabled_by_default="false" />
-            <inspection_tool class="DartDeprecatedApiUsage" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-            <inspection_tool class="DartGlobalInspectionTool" enabled="false" level="WARNING" enabled_by_default="false" />
-            <inspection_tool class="DartSdkIsNotConfigured" enabled="false" level="WARNING" enabled_by_default="false" />
-            <inspection_tool class="GherkinBrokenTableInspection" enabled="false" level="ERROR" enabled_by_default="false" />
-            <inspection_tool class="GherkinMisplacedBackground" enabled="false" level="ERROR" enabled_by_default="false" />
-            <inspection_tool class="JadeTabsAndSpaces" enabled="false" level="ERROR" enabled_by_default="false" />
-          </profile>
-        </profiles>
-        <option name="PROJECT_PROFILE" value="Project Default" />
-        <option name="USE_PROJECT_PROFILE" value="true" />
-        <version value="1.0" />
-      </component>
-      <component name="JavaScriptLibraryMappings">
-        <excludedPredefinedLibrary name="HTML5 / EcmaScript 5" />
-      </component>
-      <component name="JsBowerSettings">
-        <exe-path>C:\Users\diego\AppData\Roaming\npm\bower.cmd</exe-path>
-        <config-path />
-      </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="diego" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>File Watchers</id>
-              </State>
-              <State>
-                <id>JavaScript</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>TaskProblemsInspection</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
+      <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -81,40 +22,8 @@
         <modules />
       </component>
       <component name="ProjectRootManager" version="2" />
-      <component name="PropertiesComponent">
-        <property name="JavaScriptLanguageLevel" value="JS_1_5" />
-        <property name="JavaScriptPreferStrict" value="false" />
-        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-        <property name="HbShouldOpenHtmlAsHb" value="" />
-        <property name="options.lastSelected" value="altn8.AlternateApplicationComponent" />
-        <property name="options.splitter.main.proportions" value="0.3" />
-        <property name="options.splitter.details.proportions" value="0.2" />
-      </component>
       <component name="RunManager">
         <list size="0" />
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="VcsManagerConfiguration">
-        <option name="myTodoPanelSettings">
-          <TodoPanelSettings />
-        </option>
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
